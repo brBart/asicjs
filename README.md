@@ -6,4 +6,4 @@
 [![Dependency Status](https://img.shields.io/librariesio/github/brainbeanapps/asicjs.svg)](https://libraries.io/github/brainbeanapps/asicjs)
 [![Maintainability](https://api.codeclimate.com/v1/badges/904247f260431233130c/maintainability)](https://codeclimate.com/github/brainbeanapps/asicjs/maintainability)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License](https://img.shields.io/github/license/brainbeanapps/xmlencjs.svg)](https://github.com/brainbeanapps/xmlencjs/blob/master/LICENSE)

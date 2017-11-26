@@ -20,7 +20,7 @@
     "url": "git+https://github.com/brainbeanapps/asicjs.git"
   },
   "author": "",
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/brainbeanapps/asicjs/issues"
   },
